@@ -20,6 +20,32 @@ Follow these steps to run the app:
    ```shell
    git clone https://github.com/yourusername/flutter-app.git
 
+2. Navigate to the project directory:
+
+    ```shell
+    cd flutter-app
+
+3. Install the app's dependencies:
+
+    ```shell
+    flutter pub get
+
+4. Connect a mobile device or start an emulator.
+
+5. Run the app:
+
+    ```shell
+    flutter run
+
+## Features
+
+This has a only a few features.
+
+- Shows a text splash screen
+- Shows the home page with an avatar and name
+- Shows a GitHub Profile button
+- Click on the button to open a webview of the github profile in the app.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
