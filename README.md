@@ -46,6 +46,10 @@ This has a only a few features.
 - Shows a GitHub Profile button
 - Click on the button to open a webview of the github profile in the app.
 
+## LIVE DEMO
+
+https://appetize.io/app/jzomgkwrqpktbvc3nwajrihu2m?device=pixel6pro&osVersion=13.0&scale=50
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
